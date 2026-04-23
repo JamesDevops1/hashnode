@@ -2,7 +2,7 @@
 title: "CI/CD is Not Enough: Designing a Resilient Deployment Strategy (Blue-Green, Canary, Rollbacks)"
 datePublished: 2026-04-23T01:32:26.422Z
 cuid: cmoat42b7006r1qkb87lcbdnx
-slug: ci-cd-is-not-enough-designing-a-resilient-deployment-strategy-blue-green-canary-rollbacks
+slug: designing-resilient-deployment-strategy
 cover: https://cdn.hashnode.com/uploads/covers/69dad9e0aadf1107e26d5b69/8368fbd1-c6bb-441c-8a1b-56c097a6888d.jpg
 
 ---
